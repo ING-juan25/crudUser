@@ -1,0 +1,15 @@
+@media screen and (max-width:480px) {
+    .hijo{
+       
+        position: absolute;
+        width: 200px;
+    }
+    .contenedor__btn input{
+        min-width: 150px;
+        }
+        .contenedor__btn p{
+            font-size:18px;
+        }
+   
+
+}
